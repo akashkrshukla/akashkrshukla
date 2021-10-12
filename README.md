@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 📫 How to reach me: Email: akash6586@yahoo.com | linkedin | Website
 
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkrshukla&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkrshukla&hide=prs&count_private=true&show_icons=true&theme=radical)](https://akashkumarshukla.in)
 
