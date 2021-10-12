@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m Akash Shukla
+
 👀 I’m interested in best engineering practices, full-stack development development & machine learning.
+
 💞️ I’m looking to collaborate on open source projects & discussing design approach for development.
+
 📫 How to reach me: Email: akash6586@yahoo.com | linkedin | Website
 
 
