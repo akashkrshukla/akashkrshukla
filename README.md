@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 Hi, I’m Akash Shukla
+👀 I’m interested in best engineering practices, full-stack development development & machine learning.
+💞️ I’m looking to collaborate on open source projects & discussing design approach for development.
+📫 How to reach me: Email: akash6586@yahoo.com | linkedin | Website
+
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkrshukla&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/akashkrshukla/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkrshukla)](https://github.com/akashkrshukla/github-readme-stats)
