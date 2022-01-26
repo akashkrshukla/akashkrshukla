@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Akash Shukla
 
-👀 I’m interested in best engineering practices, full-stack development development & machine learning.
+👀 I’m interested in Optimising Engineering practices, Full-Stack Development & Machine Learning(New).
 
 💞️ I’m looking to collaborate on open source projects & discussing design approach for development.
 
