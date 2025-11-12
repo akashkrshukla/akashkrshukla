@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Akash Shukla
 
-👀 I’m interested in Optimising Engineering practices, Full-Stack Development & Machine Learning(New).
+👀 I’m interested in Optimising Engineering practices, build enterprise scale solutions, conttribute to Full-Stack Development & design solutions using AI (GenAI + Agentic AI) .
 
 💞️ I’m looking to collaborate on open source projects & discussing design approach for development.
 
